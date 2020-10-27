@@ -28,15 +28,15 @@ const itens = //Cuidado com as virgulas!!!!!!!!!
     
     {
         gênero: "indie",
-        artista: "FINNEAS"
+        artista: "Arctic Monkeys"
     },
     {
         gênero: "indie",
-        artista: "Conan Gray"
+        artista: "Lana Del Rey"
     },
     {
         gênero: "indie",
-        artista: "Wallows"
+        artista: "The Smiths"
     },
     
 ];
