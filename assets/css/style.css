@@ -4,8 +4,10 @@ html {
     font-family: 'Lato', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
-    background-color: #CBEBBC;
+    background-color: #04293c;
     scroll-behavior: smooth;
+
+
 }
 
 header {
@@ -37,18 +39,19 @@ h2 {
 
 p {
     padding: 0.7rem;
-    color:#202527;
+    color:#ffffff;
     text-align: justify;
 }
 
 input {
     padding: 0.5rem;
     margin: 0.2rem;
-    color:#202527;
+    color:#ffffff;
 }
 
 label{
     padding-bottom: 0.5rem;
+    color:#ffffff;
 }
 
 main {
@@ -89,7 +92,7 @@ ul {
     margin: 0;
     padding: 370px, 30px;
     overflow: hidden;
-    background-color:#47700F;
+    background-color: #864c56;
 
 }
   
@@ -107,7 +110,7 @@ li a, .dropbtn {
 }
   
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #D7EBBC;
+    background-color: #c06d7b;
 }
   
 li.dropdown {
@@ -156,7 +159,7 @@ li.dropdown {
 .texto-centralizado {
     text-align: center;
     font-size: 3.5rem;
-    color:  #47700F;
+    color:  #864c56;
 }
 
 .margin-embaixo {
@@ -175,7 +178,7 @@ li.dropdown {
     font: 1em sans-serif;
     width: 300px;
     box-sizing: border-box;
-    border: 1px solid #999;
+    border: 1px solid #648c82;
 }
 
 textarea {
@@ -188,7 +191,11 @@ textarea {
     font: 1em sans-serif;
     width: 300px;
     box-sizing: border-box;
-    border: 1px solid #999;
+    border: 1px solid #648c82;
+}
+
+.search{
+    color: #04293c;
 }
   
 button {
