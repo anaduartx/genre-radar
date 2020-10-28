@@ -144,10 +144,11 @@ li.dropdown {
 }
 
 /*imagem logo*/
-  .imagem {
+    .imagem {
     display: block;
-    width: 300px;
-    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* conteúdo HOME*/
