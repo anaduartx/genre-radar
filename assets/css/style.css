@@ -4,7 +4,7 @@ html {
     font-family: 'Lato', sans-serif;
     margin-left: 1rem;
     margin-right: 1rem;
-    background-color: #04293c;
+    background-color: #08283E;
     scroll-behavior: smooth;
 
 
@@ -145,8 +145,12 @@ li.dropdown {
 
 /*imagem logo*/
   .imagem {
-    width: 90%;
+    display: block;
+    width: 50%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* conteúdo HOME*/
@@ -182,12 +186,16 @@ textarea {
     height: 5em;
 }
   
-.button {
-    padding-left: 18px; 
+.button { 
     font: 1em sans-serif;
-    width: 300px;
     box-sizing: border-box;
     border: 1px solid #648c82;
+    display: block;
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .search{
