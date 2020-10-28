@@ -146,9 +146,8 @@ li.dropdown {
 /*imagem logo*/
   .imagem {
     display: block;
-    width: 50%;
+    width: 300px;
     height: auto;
-    display: block;
     margin-left: auto;
     margin-right: auto;
 }
