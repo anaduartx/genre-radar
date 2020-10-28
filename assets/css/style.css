@@ -187,11 +187,7 @@ textarea {
     box-sizing: border-box;
     border: 1px solid #648c82;
     display: block;
-    width: 50%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 300px;
 }
 
 .search{
