@@ -1,5 +1,5 @@
 //LISTA DINÂMICA - ARTISTAS
-const itens = //Cuidado com as virgulas!!!!!!!!!
+const itens =
 [
     {
         gênero: "lofi jazz",
@@ -40,11 +40,10 @@ const itens = //Cuidado com as virgulas!!!!!!!!!
     },
     
 ];
-//Passaremos as informações como string
+
 const lista = document.getElementById("lista");
 const data = document.getElementById("data");
 
-//lista.style.fontFamily = "Lato";
 
 function search() {
     lista.innerHTML = "";
